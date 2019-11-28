@@ -16,7 +16,7 @@ body {
 	height: 46px;
 	color: #fff;
 	background: rgb(40,41,35);
-	user-select: none;
+	user-select: none; /* CSS属性，控制着用户能否选中文本。*/
 }
 
 .slider-container {
